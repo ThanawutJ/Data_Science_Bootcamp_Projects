@@ -3,6 +3,7 @@
  (Batch 6) with these topic
  - Spreadsheets
  - SQL Database
+   - Create database : SQL/Simulate_Resturant_db.sql
  - R Programing
  - Data Transformation
  - Data Visualization
