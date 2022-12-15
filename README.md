@@ -5,6 +5,7 @@
  - SQL Database
    - Create database [Link](SQL/Simulate_Resturant_db.sql)
  - R Programing
+   - Chatbot [Link](R_Programing/Chatbot_PizzaShop.r)
  - Data Transformation
  - Data Visualization
  - Statistics
