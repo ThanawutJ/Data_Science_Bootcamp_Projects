@@ -14,4 +14,5 @@
  - Essential Python For Data Analyst
    - Web scraping IMDB [Link](Web_scraping/Webscp_IMDB_top_rate.ipynb)
  - Dashboard
+   - Super store dashboard [Link](https://app.powerbi.com/links/_6jHU5f5Rj?ctid=626259d2-62a2-40b1-b895-a352b2111563&pbi_source=linkShare)
 
