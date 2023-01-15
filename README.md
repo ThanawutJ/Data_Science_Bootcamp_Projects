@@ -14,7 +14,5 @@
  - Essential Python For Data Analyst
    - Web scraping IMDB [Link](Web_scraping/Webscp_IMDB_top_rate.ipynb)
  - Dashboard
-  Power Bi
-   - Super store dashboard [Link](https://app.powerbi.com/links/_6jHU5f5Rj?ctid=626259d2-62a2-40b1-b895-a352b2111563&pbi_source=linkShare)
-  Tablau
-   - Covid-19 vaccinated global tracking dashboard [Link](https://public.tableau.com/views/Covid-19Vaccinatedtracker/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+   - Super store dashboard - Power BI [Link](https://app.powerbi.com/links/_6jHU5f5Rj?ctid=626259d2-62a2-40b1-b895-a352b2111563&pbi_source=linkShare)
+   - Covid-19 vaccinated global tracking dashboard - Tablau [Link](https://public.tableau.com/views/Covid-19Vaccinatedtracker/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
